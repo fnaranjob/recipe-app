@@ -1,0 +1,16 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.docker
+
+# Python
+recipe_app/__pycache__/
+recipe_app/*/__pycache__/
+recipe_app/*/*/__pycache__/
+recipe_app/*/*/*/__pycache__/
+.env/
+.venv/
+venv/
+
